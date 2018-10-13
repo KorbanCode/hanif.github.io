@@ -15,6 +15,7 @@ import org.mockito.MockitoAnnotations
 
 class MatchPresenterTest {
 
+    // Contoh mudah dalam test fungsi request data ke internet
     @Mock
     private lateinit var viewMock: MatchView
 
